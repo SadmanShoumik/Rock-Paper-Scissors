@@ -1,0 +1,18 @@
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\bin\Release\net7.0-windows\Rock Paper Scissors.exe
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\bin\Release\net7.0-windows\Rock Paper Scissors.deps.json
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\bin\Release\net7.0-windows\Rock Paper Scissors.runtimeconfig.json
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\bin\Release\net7.0-windows\Rock Paper Scissors.dll
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\bin\Release\net7.0-windows\Rock Paper Scissors.pdb
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock Paper Scissors.csproj.AssemblyReference.cache
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock_Paper_Scissors.Form1.resources
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock_Paper_Scissors.Properties.Resources.resources
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock Paper Scissors.csproj.GenerateResource.cache
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock Paper Scissors.AssemblyInfoInputs.cache
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock Paper Scissors.AssemblyInfo.cs
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock Paper Scissors.dll
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\refint\Rock Paper Scissors.dll
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock Paper Scissors.pdb
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\Rock Paper Scissors.genruntimeconfig.cache
+E:\Projects and Programs\C# Practice\Rock-Paper-Scissors\Rock Paper Scissors\obj\Release\net7.0-windows\ref\Rock Paper Scissors.dll

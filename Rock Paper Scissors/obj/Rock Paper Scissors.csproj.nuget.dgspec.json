@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects and Programs\\C# Practice\\Rock Paper Scissors\\Rock Paper Scissors\\Rock Paper Scissors.csproj": {}
+    "E:\\Projects and Programs\\C# Practice\\Rock-Paper-Scissors\\Rock Paper Scissors\\Rock Paper Scissors.csproj": {}
   },
   "projects": {
-    "E:\\Projects and Programs\\C# Practice\\Rock Paper Scissors\\Rock Paper Scissors\\Rock Paper Scissors.csproj": {
+    "E:\\Projects and Programs\\C# Practice\\Rock-Paper-Scissors\\Rock Paper Scissors\\Rock Paper Scissors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects and Programs\\C# Practice\\Rock Paper Scissors\\Rock Paper Scissors\\Rock Paper Scissors.csproj",
+        "projectUniqueName": "E:\\Projects and Programs\\C# Practice\\Rock-Paper-Scissors\\Rock Paper Scissors\\Rock Paper Scissors.csproj",
         "projectName": "Rock Paper Scissors",
-        "projectPath": "E:\\Projects and Programs\\C# Practice\\Rock Paper Scissors\\Rock Paper Scissors\\Rock Paper Scissors.csproj",
+        "projectPath": "E:\\Projects and Programs\\C# Practice\\Rock-Paper-Scissors\\Rock Paper Scissors\\Rock Paper Scissors.csproj",
         "packagesPath": "C:\\Users\\Shoumik\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects and Programs\\C# Practice\\Rock Paper Scissors\\Rock Paper Scissors\\obj\\",
+        "outputPath": "E:\\Projects and Programs\\C# Practice\\Rock-Paper-Scissors\\Rock Paper Scissors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shoumik\\AppData\\Roaming\\NuGet\\NuGet.Config",
